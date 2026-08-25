@@ -1,4 +1,17 @@
-# ZarTush-Data-Consulting-Pvt-Ltd
+# Stop Guessing Which Sales Categories or Marketing Campaigns Are Making Money
+## Get clear, interactive sales and marketing dashboards that track your true ROI without the pain of managing multiple spreadsheets
+
+## [Email Marketing Campaigns Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Email_Marketing_Campaign_Dashboard)
+![](/Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png)
+
+## [Tesco Sales Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Tesco_Sales_Dashboard_Power_BI)
+![](/Tesco_Sales_Dashboard_Power_BI/tesco.jpg)
+
+
+## Let's map your sales/marketing metrics into an automated dashboard roadmap
+## [Book Your Free Analytics Strategy Call]
+Takes 60 seconds. No obligation.
+
 
 
 ## [Project 1: Email Marketing Campaigns Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Email_Marketing_Campaign_Dashboard)
