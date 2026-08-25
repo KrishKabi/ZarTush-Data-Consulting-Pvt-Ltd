@@ -1,4 +1,6 @@
-# Stop Guessing Which Sales Categories or Marketing Campaigns Are Making Money
+
+<p align="center"># Stop Guessing Which Sales Categories or Marketing Campaigns Are Making Money</p>
+
 ## Get clear, interactive sales and marketing dashboards that track your true ROI without the pain of managing multiple spreadsheets
 
 ## [Email Marketing Campaigns Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Email_Marketing_Campaign_Dashboard)
