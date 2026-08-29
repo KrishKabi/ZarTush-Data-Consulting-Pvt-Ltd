@@ -7,6 +7,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 ## 🛍️ Project 1: Multi-Channel E-Commerce Data Pipeline & Financial Dashboard
 **Client Profile:** High-Volume E-Commerce Retailer (TikTok Shop & Shopee)
+
 **Core Impact:** Engineered a unified data ingestion pipeline that aggregates fragmented multi-platform order and income streams, eliminating manual reporting overhead.
 
 ![](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Ecommerce_Dashboard/Ecommerce%20Dashboard.png)
@@ -24,6 +25,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 ## ⚙️ Project 2: Enterprise Training Operations Pipeline & Automated Refresh Architecture
 **Client Profile:** Energy Industry Training Consultant
+
 **Core Impact:** Built an automated cloud-linked operational tracker connected to enterprise storage, reducing data latency to zero manual intervention.
 
 ![](Your_Image_Link_Here)
@@ -41,6 +43,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 ## 📧 [Project 3: Marketing Analytics Pipeline & Performance Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Email_Marketing_Campaign_Dashboard)
 **Client Profile:** B2B Marketing Firm
+
 **Core Impact:** Structured a messy marketing dataset into a clean performance engine, slashing executive reporting latency by 50%.
 
 ![](/Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png)
