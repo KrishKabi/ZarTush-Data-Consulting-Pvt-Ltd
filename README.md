@@ -1,6 +1,8 @@
 <h1 align="center">Data Analytics & Engineering Portfolio</h1>
 Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
+<br>
+
 > **Executive Summary:** I engineer automated data architecture and robust ETL pipelines that convert fragmented, multi-channel operational data into high-density executive dashboards. Expert in data transformation logic, semantic modeling, and reducing reporting latency.
 
 <br>
