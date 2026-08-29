@@ -7,7 +7,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 <br>
 
-***🔒 Confidentiality Note:** To comply with Non-Disclosure Agreements (NDAs), all sensitive metrics, proprietary business logic, and identifying customer details have been anonymized or modified. The data structures and engineering architecture remain identical to the production environment.*
+***Confidentiality Note:** To comply with Non-Disclosure Agreements (NDAs), all sensitive metrics, proprietary business logic, and identifying customer details have been anonymized or modified. The data structures and engineering architecture remain identical to the production environment.*
 
 ---
 
