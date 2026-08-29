@@ -3,6 +3,10 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 > **Executive Summary:** I engineer automated data architecture and robust ETL pipelines that convert fragmented, multi-channel operational data into high-density executive dashboards. Expert in data transformation logic, semantic modeling, and reducing reporting latency.
 
+<br>
+
+***🔒 Confidentiality Note:** To comply with Non-Disclosure Agreements (NDAs), all sensitive metrics, proprietary business logic, and identifying customer details have been anonymized or modified. The data structures and engineering architecture remain identical to the production environment.*
+
 ---
 
 ## 🛍️ [Project 1: Multi-Channel E-Commerce Data Pipeline & Financial Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Ecommerce_Dashboard)
