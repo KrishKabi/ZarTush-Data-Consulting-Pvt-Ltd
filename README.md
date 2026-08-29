@@ -10,7 +10,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Engineered a unified data ingestion pipeline that aggregates fragmented multi-platform order and income streams, eliminating manual reporting overhead.
 
-![](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Ecommerce_Dashboard/Ecommerce%20Dashboard.png)
+![](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Ecommerce_Dashboard/Ecommerce_Dashboard.png)
 
 **Business Value & Outcomes:**
 * **Decoupled File Ingestion:** Designed a seamless architecture allowing non-technical operators to feed raw platform exports into a centralized system without breaking schema integrity.
