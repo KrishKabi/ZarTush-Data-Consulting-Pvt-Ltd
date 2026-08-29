@@ -46,7 +46,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 <br>
 
-*[Dashboard Confidential! Not available for viewing]*
+*[Dashboard Highly Confidential! Not available for viewing]*
 
 ![](Your_Image_Link_Here)
 
