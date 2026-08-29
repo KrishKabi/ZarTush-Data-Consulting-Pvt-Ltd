@@ -44,6 +44,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Built an automated cloud-linked operational tracker connected to enterprise storage, reducing data latency to zero manual intervention
 
+<br>
 
 *[Dashboard Confidential! Not available for viewing]*
 
