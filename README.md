@@ -45,8 +45,6 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Structured a marketing dataset into a clean performance engine, decreasing executive reporting latency by 50%
 
-![](/Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png)
-
 **Business Value & Outcomes:**
 * **Process Optimization:** Eliminated weekly manual reporting cycles by engineering an automated KPI calculation framework
 * **Revenue Leakage Isolation:** Identified a critical 28.65% campaign delivery failure rate, instantly surfacing optimization targets to maximize client acquisition ROI
