@@ -60,7 +60,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
   <img src="Testimonials/Richard.png" width="300" alt="Richard Testimonial">
 </p>
 
-*[Dashboard Highly Confidential, Not available for viewing]*
+<h4 align="center">[Dashboard Highly Confidential, Not available for viewing]</h4>
 
 <br>
 
