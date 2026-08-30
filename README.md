@@ -34,6 +34,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 <p align="center">
   <img src="Testimonials/Raushida.png" width="250" alt="Raushida Testimonial">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png" width="450" alt="Email Marketing Dashboard">
 </p>
 
