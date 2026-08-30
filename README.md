@@ -33,7 +33,8 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 ## 📧 [Project 2: Marketing Analytics Pipeline & Performance Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Email_Marketing_Campaign_Dashboard)
 
 <p align="center">
-  <img src="Testimonials/Raushida.png" width="300" alt="Raushida Testimonial">
+  <img src="Testimonials/Raushida.png" width="350" alt="Raushida Testimonial">
+  <img src="Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png" width="350" alt="Email Marketing Dashboard">
 </p>
 
 <br>
