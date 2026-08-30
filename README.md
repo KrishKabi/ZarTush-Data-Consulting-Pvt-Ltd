@@ -99,6 +99,9 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 * **Data Integrity:** Engineered robust transformation logic to automatically clean, deduplicate, and validate incoming regional training logs before visual rendering
 </details>
 
-**Technical Stack & Competencies:**
+<details>
+<summary><b>Technical Stack & Competencies (Click to expand)</b></summary>
+<br>
+
 * **Data Architecture:** Cloud Integration, Scheduled Gateway Orchestration, Automated Data Cleansing
 * **Business Intelligence:** Enterprise Asset Tracking, Role-Based Operational Metrics
