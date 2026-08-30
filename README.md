@@ -48,9 +48,13 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 ## ⚙️ Project 3: Enterprise Training Operations Pipeline & Automated Refresh Architecture
 
-<p align="center">
-  <img src="https://github.com" width="500" alt="Richard Testimonial">
-</p>
+## ⚙️ Project 3: Enterprise Training Operations Pipeline & Automated Refresh Architecture
+
+<div align="center">
+
+![Richard Testimonial](https://githubusercontent.com)
+
+</div>
 
 <br>
 
