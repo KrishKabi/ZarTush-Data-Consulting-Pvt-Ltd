@@ -31,6 +31,14 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 ---
 
 ## 📧 [Project 2: Marketing Analytics Pipeline & Performance Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/tree/main/Email_Marketing_Campaign_Dashboard)
+
+<p align="center">
+  <img src="Testimonials/Raushida.png" width="300" alt="Raushida Testimonial">
+</p>
+
+<br>
+
+
 **Client Profile:** B2B Marketing Firm
 
 **Core Impact:** Structured a marketing dataset into a clean performance engine, decreasing executive reporting latency by 50%
@@ -49,7 +57,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 ## ⚙️ Project 3: Enterprise Training Operations Pipeline & Automated Refresh Architecture
 
 <p align="center">
-  <img src="Testimonials/Richard.png" width="500" alt="Richard Testimonial">
+  <img src="Testimonials/Richard.png" width="300" alt="Richard Testimonial">
 </p>
 
 <br>
