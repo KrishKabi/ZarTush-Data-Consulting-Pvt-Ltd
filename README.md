@@ -25,17 +25,23 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 <summary><b>Business Value & Outcomes (Click to expand)</b></summary>
 <br>
 
-* **Decoupled File Ingestion:** Designed a seamless architecture allowing non-technical operators to feed raw platform export of orders and income reports into a centralized system without breaking schema integrity
-* **Unified Financial Modeling:** Automated the structural transformation of conflicting data schemas (TikTok vs. Shopee) into a standardized star-schema database model
-* **Operational Velocity:** Replaced a 6-hour weekly manual consolidation process with an automated view of net margins, settled order volumes, and disbursement %
+**Project Description:**
+
+<details>
+<summary><b>Business Value & Outcomes (Click to expand)</b></summary>
+<ul>
+  <li><b>Decoupled File Ingestion:</b> Designed a seamless architecture allowing non-technical operators to feed raw platform export of orders and income reports into a centralized system without breaking schema integrity</li>
+  <li><b>Unified Financial Modeling:</b> Automated the structural transformation of conflicting data schemas (TikTok vs. Shopee) into a standardized star-schema database model</li>
+  <li><b>Operational Velocity:</b> Replaced a 6-hour weekly manual consolidation process with an automated view of net margins, settled order volumes, and disbursement %</li>
+</ul>
 </details>
 
 <details>
 <summary><b>Technical Stack & Competencies (Click to expand)</b></summary>
-<br>
-
-* **Data Engineering:** ETL Pipeline Design, Cross-Platform Schema Standardization, Star-Schema Data Modeling
-* **Business Intelligence:** Advanced DAX, Power Query M-Engine, Operational KPI Dashboards
+<ul>
+  <li><b>Data Engineering:</b> ETL Pipeline Design, Cross-Platform Schema Standardization, Star-Schema Data Modeling</li>
+  <li><b>Business Intelligence:</b> Advanced DAX, Power Query M-Engine, Operational KPI Dashboards</li>
+</ul>
 </details>
 
 ---
