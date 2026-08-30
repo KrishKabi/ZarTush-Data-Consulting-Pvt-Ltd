@@ -60,6 +60,8 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
   <img src="Testimonials/Richard.png" width="300" alt="Richard Testimonial">
 </p>
 
+*[Dashboard Highly Confidential, Not available for viewing]*
+
 <br>
 
 **Client Profile:** Energy Industry Training Consultant
@@ -67,10 +69,6 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 **Core Impact:** Built an automated cloud-linked operational tracker connected to enterprise storage, reducing data latency to zero manual intervention
 
 <br>
-
-*[Dashboard Highly Confidential! Not available for viewing]*
-
-![](Your_Image_Link_Here)
 
 **Business Value & Outcomes:**
 * **Cloud Infrastructure Sync:** Architected a live data pipeline tethered directly to the client's cloud repository (SharePoint Document Library) to capture multi-department updates
