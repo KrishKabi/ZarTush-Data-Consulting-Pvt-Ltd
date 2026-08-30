@@ -55,12 +55,22 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Structured a marketing dataset into a clean performance engine, decreasing executive reporting latency by 50%
 
-**Business Value & Outcomes:**
+**Project Description:**
+
+<details>
+<summary><b>Business Value & Outcomes (Click to expand)</b></summary>
+<br>
+
 * **Process Optimization:** Eliminated weekly manual reporting cycles by engineering an automated KPI calculation framework
 * **Revenue Leakage Isolation:** Identified a critical 28.65% campaign delivery failure rate, instantly surfacing optimization targets to maximize client acquisition ROI
+</details>
 
-**Technical Stack & Competencies:**
+<details>
+<summary><b>Technical Stack & Competencies (Click to expand)</b></summary>
+<br>
+
 * **Analytics & Visualization:** High-Density Executive Dashboards, Cohort Analysis, Performance Bottleneck Identification
+</details>
 
 ---
 
@@ -80,10 +90,14 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 <br>
 
-**Business Value & Outcomes:**
+<details>
+<summary><b>Business Value & Outcomes (Click to expand)</b></summary>
+<br>
+
 * **Cloud Infrastructure Sync:** Architected a live data pipeline tethered directly to the client's cloud repository (SharePoint Document Library) to capture multi-department updates
 * **Automated Refresh Architecture:** Implemented automated data orchestration via scheduled daily gateway refreshes on cloud services, ensuring leadership always accesses real-time operational metrics
 * **Data Integrity:** Engineered robust transformation logic to automatically clean, deduplicate, and validate incoming regional training logs before visual rendering
+</details>
 
 **Technical Stack & Competencies:**
 * **Data Architecture:** Cloud Integration, Scheduled Gateway Orchestration, Automated Data Cleansing
