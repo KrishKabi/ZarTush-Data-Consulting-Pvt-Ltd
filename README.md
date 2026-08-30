@@ -19,14 +19,6 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Engineered a unified data ingestion pipeline that aggregates fragmented multi-platform order and income streams, eliminating manual reporting overhead
 
-**Project Description:**
-
-<details>
-<summary><b>Business Value & Outcomes (Click to expand)</b></summary>
-<br>
-
-**Project Description:**
-
 <details>
 <summary><b>Business Value & Outcomes (Click to expand)</b></summary>
 <ul>
