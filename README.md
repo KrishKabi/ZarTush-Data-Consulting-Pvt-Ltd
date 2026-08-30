@@ -19,14 +19,24 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Engineered a unified data ingestion pipeline that aggregates fragmented multi-platform order and income streams, eliminating manual reporting overhead
 
-**Business Value & Outcomes:**
+**Project Description:**
+
+<details>
+<summary><b>Business Value & Outcomes (Click to expand)</b></summary>
+<br>
+
 * **Decoupled File Ingestion:** Designed a seamless architecture allowing non-technical operators to feed raw platform export of orders and income reports into a centralized system without breaking schema integrity
 * **Unified Financial Modeling:** Automated the structural transformation of conflicting data schemas (TikTok vs. Shopee) into a standardized star-schema database model
 * **Operational Velocity:** Replaced a 6-hour weekly manual consolidation process with an automated view of net margins, settled order volumes, and disbursement %
+</details>
 
-**Technical Stack & Competencies:**
+<details>
+<summary><b>Technical Stack & Competencies (Click to expand)</b></summary>
+<br>
+
 * **Data Engineering:** ETL Pipeline Design, Cross-Platform Schema Standardization, Star-Schema Data Modeling
 * **Business Intelligence:** Advanced DAX, Power Query M-Engine, Operational KPI Dashboards
+</details>
 
 ---
 
