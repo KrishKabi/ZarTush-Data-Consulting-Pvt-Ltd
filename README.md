@@ -13,7 +13,7 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 ## 🛍️ [Project 1: Multi-Channel E-Commerce Data Pipeline & Financial Dashboard](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Ecommerce_Dashboard)
 
-(https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Testimonials/Richard.png)
+![](https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Testimonials/Richard.png)
 
 **Client Profile:** High-Volume E-Commerce Retailer (TikTok Shop & Shopee)
 
