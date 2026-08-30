@@ -53,21 +53,19 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Structured a marketing dataset into a clean performance engine, decreasing executive reporting latency by 50%
 
-**Project Description:**
-
 <details>
 <summary><b>Business Value & Outcomes (Click to expand)</b></summary>
-<br>
-
-* **Process Optimization:** Eliminated weekly manual reporting cycles by engineering an automated KPI calculation framework
-* **Revenue Leakage Isolation:** Identified a critical 28.65% campaign delivery failure rate, instantly surfacing optimization targets to maximize client acquisition ROI
+<ul>
+  <li><b>Process Optimization:</b> Eliminated weekly manual reporting cycles by engineering an automated KPI calculation framework</li>
+  <li><b>Revenue Leakage Isolation:</b> Identified a critical 28.65% campaign delivery failure rate, instantly surfacing optimization targets to maximize client acquisition ROI</li>
+</ul>
 </details>
 
 <details>
 <summary><b>Technical Stack & Competencies (Click to expand)</b></summary>
-<br>
-
-* **Analytics & Visualization:** High-Density Executive Dashboards, Cohort Analysis, Performance Bottleneck Identification
+<ul>
+  <li><b>Analytics & Visualization:</b> High-Density Executive Dashboards, Cohort Analysis, Performance Bottleneck Identification</li>
+</ul>
 </details>
 
 ---
@@ -86,20 +84,20 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 **Core Impact:** Built an automated cloud-linked operational tracker connected to enterprise storage, reducing data latency to zero manual intervention
 
-<br>
-
 <details>
 <summary><b>Business Value & Outcomes (Click to expand)</b></summary>
-<br>
-
-* **Cloud Infrastructure Sync:** Architected a live data pipeline tethered directly to the client's cloud repository (SharePoint Document Library) to capture multi-department updates
-* **Automated Refresh Architecture:** Implemented automated data orchestration via scheduled daily gateway refreshes on cloud services, ensuring leadership always accesses real-time operational metrics
-* **Data Integrity:** Engineered robust transformation logic to automatically clean, deduplicate, and validate incoming regional training logs before visual rendering
+<ul>
+  <li><b>Cloud Infrastructure Sync:</b> Architected a live data pipeline tethered directly to the client's cloud repository (SharePoint Document Library) to capture multi-department updates</li>
+  <li><b>Automated Refresh Architecture:</b> Implemented automated data orchestration via scheduled daily gateway refreshes on cloud services, ensuring leadership always accesses real-time operational metrics</li>
+  <li><b>Data Integrity:</b> Engineered robust transformation logic to automatically clean, deduplicate, and validate incoming regional training logs before visual rendering</li>
+</ul>
 </details>
+
 
 <details>
 <summary><b>Technical Stack & Competencies (Click to expand)</b></summary>
-<br>
-
-* **Data Architecture:** Cloud Integration, Scheduled Gateway Orchestration, Automated Data Cleansing
-* **Business Intelligence:** Enterprise Asset Tracking, Role-Based Operational Metrics
+<ul>
+  <li><b>Data Architecture:</b> Cloud Integration, Scheduled Gateway Orchestration, Automated Data Cleansing</li>
+  <li><b>Business Intelligence:</b> Enterprise Asset Tracking, Role-Based Operational Metrics</li>
+</ul>
+</details>
