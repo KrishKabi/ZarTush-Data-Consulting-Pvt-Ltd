@@ -48,12 +48,6 @@ Automated ETL Pipelines | Business Intelligence | Enterprise Data Modeling
 
 ## ⚙️ Project 3: Enterprise Training Operations Pipeline & Automated Refresh Architecture
 
-## ⚙️ Project 3: Enterprise Training Operations Pipeline & Automated Refresh Architecture
-
-<div align="center">
-
-## ⚙️ Project 3: Enterprise Training Operations Pipeline & Automated Refresh Architecture
-
 <p align="center">
   <img src="https://github.com/KrishKabi/ZarTush-Data-Consulting-Pvt-Ltd/blob/main/Testimonials/Richard.png" width="50% /">
 </p>
